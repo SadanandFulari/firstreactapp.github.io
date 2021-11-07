@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/firstreactapp.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/firstreactapp.github.io/static/js/main.44910e77.chunk.js",
+    "main.js.map": "/firstreactapp.github.io/static/js/main.44910e77.chunk.js.map",
+    "runtime-main.js": "/firstreactapp.github.io/static/js/runtime-main.db85aabd.js",
+    "runtime-main.js.map": "/firstreactapp.github.io/static/js/runtime-main.db85aabd.js.map",
+    "static/js/2.8670c76d.chunk.js": "/firstreactapp.github.io/static/js/2.8670c76d.chunk.js",
+    "static/js/2.8670c76d.chunk.js.map": "/firstreactapp.github.io/static/js/2.8670c76d.chunk.js.map",
+    "static/js/3.66b7cf7f.chunk.js": "/firstreactapp.github.io/static/js/3.66b7cf7f.chunk.js",
+    "static/js/3.66b7cf7f.chunk.js.map": "/firstreactapp.github.io/static/js/3.66b7cf7f.chunk.js.map",
+    "index.html": "/firstreactapp.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/firstreactapp.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8670c76d.chunk.js.LICENSE.txt": "/firstreactapp.github.io/static/js/2.8670c76d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/firstreactapp.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db85aabd.js",
+    "static/js/2.8670c76d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.44910e77.chunk.js"
+  ]
+}
